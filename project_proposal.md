@@ -6,7 +6,7 @@ This document is to contain your project proposal. __As you complete each of the
 
 ## GitHub Handle: Add Your Name Here
 
-## Name: Add Your Name Here
+## Name: Jason Gyamfi
 
 ## Major: TODO (choose: CS, DS, INFM, SE)
 

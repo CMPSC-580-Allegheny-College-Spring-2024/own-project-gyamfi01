@@ -8,7 +8,7 @@ This document is to contain your project proposal. __As you complete each of the
 
 ## Name: Jason Gyamfi
 
-## Major: TODO (choose: CS, DS, INFM, SE)
+## Major: CS
 
 ## Project Title: WE DONE WITH THE NINETY'S
 

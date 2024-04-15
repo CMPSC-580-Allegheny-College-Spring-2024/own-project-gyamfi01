@@ -4,7 +4,7 @@
 
 This document is to contain your project proposal. __As you complete each of the below sections in this document, please be sure to remove all preamble text so that it does not appear in your work.__
 
-## GitHub Handle: Add Your Name Here
+## GitHub Handle: gyamfi01
 
 ## Name: Jason Gyamfi
 

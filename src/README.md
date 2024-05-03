@@ -12,7 +12,11 @@ To allow the user to experience and execute your prototype, you must first expla
 
 ## Requirements
 
-TODO: Include the software and hardware needed to run your prototype. Be sure to specify the  versions of software used in your prototype.
+* Hardware: No specific hardware requirements; any standard computer with internet access will suffice.
+* Software:
+  * Python 3.8 or newer.
+  * Libraries: pandas, matplotlib, seaborn, nba_api, streamlit.
+  * A web browser to access the Streamlit application.
 
 ## Using the Prototype
 

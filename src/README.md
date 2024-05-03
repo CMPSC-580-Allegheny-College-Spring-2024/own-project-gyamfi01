@@ -1,18 +1,17 @@
 # Project Prototype
-
-TODO: The result of your work will be the delivery of some type of proof-of-concept prototype which will likely contain software programming solutions (i.e., Python code, HTML pages, or similar). All source code for the prototype must be stored in this directory. If your prototype uses data, please create `data/` subdirectory in `src/` and include your data file(s) in `src/data/` directory.
-
-To allow the user to experience and execute your prototype, you must first explain how to set up the initial conditions to run or use the artifact. Be sure to offer explicit details and instructions regarding the installation of the necessary foundational libraries, drivers, external software projects, containers and similar types of tertiary software which are involved in executing your artifact. Once these initial software installations have been completed, then you are asked to offer the necessary instructions for actually executing the artifact. For this, please provide all command line parameters or associated bash commands for execution. Please remember that users are unwilling to "figure-out" how to use code in absence of the essential instructions concerning the execution of project artifacts.
-
 1. Installation Requirements:
-Python: The prototype is built using Python, so ensure Python 3.8 or newer is installed. You can download it from python.org.
-Libraries: Install necessary Python libraries using pip. This includes pandas for data manipulation, matplotlib and seaborn for data visualization, nba_api for accessing NBA statistics, and streamlit for creating the web application.
+   
+* Python: The prototype is built using Python, so ensure Python 3.8 or newer is installed. You can download it from python.org.
+* Libraries: Install necessary Python libraries using pip. This includes pandas for data manipulation, matplotlib and seaborn for data visualization, nba_api for accessing NBA statistics, and streamlit for creating the web application.
 `pip install pandas matplotlib seaborn nba_api streamlit`
 2. Data Setup:
-If your prototype uses historical NBA data, store these in the src/data/ directory. Ensure this data is correctly formatted and accessible by your scripts.
+
+* If your prototype uses historical NBA data, store these in the src/data/ directory. Ensure this data is correctly formatted and accessible by your scripts.
+
 3. Software and Drivers:
-Web Browser: Any modern web browser (e.g., Chrome, Firefox, Safari) to access the Streamlit app.
-IDE/Code Editor: Recommended to use an IDE like PyCharm or VS Code for running and editing the Python scripts.
+
+* Web Browser: Any modern web browser (e.g., Chrome, Firefox, Safari) to access the Streamlit app.
+* IDE/Code Editor: Recommended to use an IDE like PyCharm or VS Code for running and editing the Python scripts.
 
 ## Key Features
 

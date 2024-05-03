@@ -28,7 +28,21 @@ TODO (10 source minimum, with 5 of those being published peer-reviewed articles)
 
 ## Prototype
 
-TODO: Discuss the methods of the project to be able to answer the `how` question (`how was this project completed?`). For this section, you must describe  the methodology behind your implemented prototype. The methods section in an academic research outlines the specific procedures, techniques, and methodologies employed to conduct the study, offering a transparent and replicable framework for the research. It details the resources behind the work, in terms of, for example, the design of the algorithm and the experiment(s), data collection methods, applied software libraries, required tools, the types of statistical analyses and models which are applied to ensure the rigor and validity of the study. This section provides clarity for other researchers to understand and potentially replicate the study, contributing to the overall reliability and credibility of the research findings.
+TODO: Discuss the methods of the project to be able to answer the `how` question (`how was this project completed?`). For this section, you must describe  the methodology behind your implemented prototype. The methods section in an academic research outlines the specific procedures, techniques, and methodologies employed to conduct the study, offering a transparent and replicable framework for the research. It details the resourcs behind the work, in terms of, for example, the design of the algorithm and the experiment(s), data collection methods, applied software libraries, required tools, the types of statistical analyses and models which are applied to ensure the rigor and validity of the study. This section provides clarity for other researchers to understand and potentially replicate the study, contributing to the overall reliability and credibility of the research findings.
+
+This study's main goal is to examine historical basketball data to identify variations in scoring challenges throughout various basketball eras, with a focus on comprehending potential effects on player efficacy and strategy.
+
+Data Collection:
+
+* Sources: Data was sourced from several historical databases and archives that compile basketball statistics, including player performance measures, team statistics, and game outcomes from various eras.
+* Selection Criteria: Data selection focused on comprehensive coverage across multiple decades, ensuring representation from early (1950s–1990s) and modern (2000s–present) periods of basketball.
+* Retrieval Method: The data was accessed using APIs where available, such as the nba_api for recent decades, and digital archives for older statistical records. Manual data entry was employed for archival data not available in digital format.
+
+Data Processing
+
+* Cleaning: Initial data cleaning involved removing inconsistencies and errors, such as duplicate entries and mislabeled statistics, using Python’s pandas library.
+* Normalization: To compare across eras effectively, scoring metrics like points per game were normalized against era averages to account for different paces of play and scoring environments.
+* Feature Engineering: Additional features such as adjusted player efficiency metrics and era-adjusted scoring indices were computed to provide deeper insights into player performance relative to their era.
 
 ## Preliminary Results and Outcomes
 

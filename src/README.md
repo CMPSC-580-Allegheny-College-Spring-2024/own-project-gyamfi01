@@ -6,7 +6,9 @@ To allow the user to experience and execute your prototype, you must first expla
 
 ## Key Features
 
-TODO: Outline the  main technical features of your prototype.
+* Player Statistic Retrieval: Users can enter the name of an NBA player to retrieve detailed career statistics.
+* Data Visualization: The prototype provides visual representations of the data such as points per game over time using matplotlib and seaborn.
+* Interactive Web Interface: Implemented using streamlit, allowing users to interactively query NBA player stats and view results in a web browser.
 
 ## Requirements
 

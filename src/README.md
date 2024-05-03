@@ -31,6 +31,7 @@ Run the Streamlit app using the following command. Replace streamlit_nba_stats.p
 3. Access the App:
 Open your web browser and go to http://localhost:8501 to view and interact with the application.
 Input the name of an NBA player to retrieve and display their statistics.
+
 Example Usage:
 
 Once the app is running, enter a player’s name like "LeBron James" into the input field and click the "Show Stats" button to view the statistics.

@@ -20,4 +20,17 @@ To allow the user to experience and execute your prototype, you must first expla
 
 ## Using the Prototype
 
-TODO: Provide details for how to run your artifact. Include specific commands and step by step instructions.
+Running the Streamlit App:
+
+1. Navigate to the Project Directory:
+Open a command line interface and change to the directory where your project is stored.
+`cd path/to/your/project`
+2. Start the Streamlit App:
+Run the Streamlit app using the following command. Replace streamlit_nba_stats.py with the name of your Streamlit script.
+`streamlit run streamlit_nba_stats.py`
+3. Access the App:
+Open your web browser and go to http://localhost:8501 to view and interact with the application.
+Input the name of an NBA player to retrieve and display their statistics.
+Example Usage:
+
+Once the app is running, enter a player’s name like "LeBron James" into the input field and click the "Show Stats" button to view the statistics.

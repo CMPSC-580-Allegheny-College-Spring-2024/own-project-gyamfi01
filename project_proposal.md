@@ -82,7 +82,7 @@ Statistical Analysis Outcomes:
 
 ## Conclusions and Future Work
 
-The study developed a sophisticated grasp of how basketball dynamics have changed and impacted player performance and game strategy by effectively utilizing historical basketball data to examine scoring challenges throughout various eras. The results have a substantial impact on the growth of basketball as a game and on scholarly viewpoints on sports analytics.
+The study established a detailed understanding of how basketball dynamics have evolved over time, with important implications for player performance and game strategies. By methodically studying historical basketball statistics, the study offers a deep dive into the scoring obstacles faced across several eras, revealing the interplay between regulation changes, player evolution, and strategic shifts. The detailed research revealed not only quantitative changes in scoring, but also improvements in quality in gameplay, providing a deeper understanding of the sport's evolution. The findings of this study are especially significant since they contribute significantly to the continuing discussion about basketball's expansion, both as a competitive sport and as an area of academic interest within sports analytics. This improved understanding helps scholars, strategists, and fans appreciate the nuances of basketball and develops a deeper engagement with its historical and analytical components.
 
 What I Plan on Doing:
 

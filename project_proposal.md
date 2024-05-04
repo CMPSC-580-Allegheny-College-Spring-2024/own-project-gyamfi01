@@ -23,8 +23,21 @@ By investigating these factors, this research aspires to not only enrich the app
 
 ## Literature Review
 
-This lit review examines how NBA scoring has changed over time using thorough scholarly research and insightful articles from the sports analytics and basketball communities. It studies many aspects of basketball evolution, such as regulation changes, player performance, and statistical analysis, in order to interpret these patterns' broader significance for the sport.
+This literature review investigates how NBA scoring has changed over time by utilizing detailed research from academic studies and articles from sports analytics and basketball experts. It covers various aspects of the sport's evolution, including changes in rules, improvements in player performance, and the use of advanced statistical methods. This approach helps to understand the broader impacts of these changes on basketball.
 
+**Exploration of Rule Changes:**
+A key focus of the review is how changes in the rules have affected the way basketball is played and scored. It examines the introduction of major rules like the shot clock, which speeds up the game, and the three-point line, which has changed scoring strategies. The review looks at why these rules were introduced, their immediate effects on the game, and how they have influenced long-term scoring trends in the league.
+
+**Player Performance Analysis:**
+The review also looks at how player performance has evolved due to better training methods, changes in player selection, and different playing styles. It uses specific performance metrics, such as player efficiency ratings, to show these changes and gives insights into how players have adjusted to the demands of the evolving game.
+
+**Statistical Analysis in Basketball:**
+Additionally, the review discusses how modern statistical techniques, like predictive modeling and machine learning, are used to analyze basketball data. These methods have improved how player and team performances are evaluated and have helped predict future trends and the effects of different game strategies.
+
+**Broader Implications for the Sport:**
+The review connects these findings to their larger impact on basketball. It explains how understanding these scoring trends and their reasons can help teams develop better strategies and adapt to changes in the game. It also considers how these insights enhance the experience for fans, as a deeper understanding of the stats can make watching the game more engaging.
+
+Overall, this literature review provides a thorough look at the significant changes in NBA scoring, offering insights into the interactions between rule changes, player performance, and statistical advancements in basketball. Through this exploration, it contributes valuable knowledge to both academic discussions and practical applications in sports analytics.
 Peer-Reviewed Articles
 
 * Rocha da Silva, João Vítor; Rodrigues, Paulo Canas (2021). "The Three Eras of the NBA Regular Seasons: Historical Trend and Success Factors," Journal of Sports Analytics. This research applies advanced statistical methods, such as K-means clustering and LASSO regression, to delineate distinct eras of NBA basketball, offering insights into the key factors driving success across different periods.

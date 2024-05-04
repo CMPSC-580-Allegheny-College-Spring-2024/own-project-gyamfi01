@@ -156,3 +156,4 @@ Jaime Sampaio. (2019). Exploring Game Performance in the NBA Using Player Tracki
 Dimitrije Cabarkapa. (2022). Game Statistics That Discriminate Winning and Losing in the NBA. PLOS ONE.
 Mahmoud M. Nourayi. Strategically Driven Rule Changes in NBA: Causes and Consequences. The Sport Journal.
 Feng Wang. (2022). What are the changes in basketball shooting pattern and accuracy in the NBA in the past decade? Frontiers.
+OpenAI. (2024, May 3). OpenAI Chat. Retrieved from https://chat.openai.com

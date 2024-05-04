@@ -125,7 +125,9 @@ Real-Time Data Analysis:
 * Enhancements to the Streamlit Dashboard
 
 Interactive Features:
+
 * Implement more interactive elements, such as sliders to adjust parameters of the machine learning models, allowing users to see how changes affect predictions.
+
 * Provide users with the ability to upload their data sets for custom analysis.
 
 Visualization Upgrades:

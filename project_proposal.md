@@ -86,16 +86,27 @@ Data Processing
 
 ## Preliminary Results and Outcomes
 
-Experimental Study and Results:
+Experimental Study Setup:
+I gathered extensive data covering many years of NBA games to look into how scoring, player performance, and team tactics have changed over time. Using simple statistical tools, I analyzed this data to find important patterns and trends in basketball.
 
-* Comprehensive datasets spanning several decades of NBA play were analyzed to extract trends in scoring, player efficiency, and team strategies.
+Analysis and Results:
 
-Statistical Analysis Outcomes:
+1. Era Comparison:
 
-* Era Comparison: The analysis revealed statistically significant differences in scoring averages and efficiencies between the early and modern eras of basketball. Players from the modern era were found to have higher points per game (PPG) but also faced more dynamic and complex defenses.
+Scoring and Efficiency: The analysis showed clear differences in scoring between earlier and modern basketball eras. Players today score more points per game compared to those in the past. This could be due to better training, selection, and offensive strategies in recent times.
+Defense Complexity: The data also showed that modern players face tougher and more complex defenses. Today’s defenses use more advanced strategies, which are harder for offensive players to beat compared to simpler past strategies.
 
-* Impact of Rule Changes: Changes in basketball rules, particularly those relating to the shot clock and three-point line, were found to correlate significantly with increases in scoring rates, supporting the hypothesis that rule changes have facilitated higher scoring.
+2. Impact of Rule Changes:
 
+Rule Changes Examined: I looked closely at major NBA rule changes like the introduction of the shot clock in 1954-55 to speed up the game, and the three-point line in 1979-80 which rewards longer shots.
+Link to Scoring Increases: The findings suggest a strong link between these rule changes and higher scoring in games. These changes have made the game faster and more exciting, and they've led teams to find new ways to score more points.
+
+3. Broader Insights:
+
+Player Performance Over Time: By looking at player efficiency (how well players perform considering all aspects of their game), I noticed trends showing how individual performance has adapted over time.
+Team Strategy Evolution: I also explored how team strategies have changed, particularly the increase in faster play and more three-point shooting, which has significantly changed how teams set up their offenses.
+Conclusion of Experimental Study:
+This study provides a clear view of how NBA basketball has changed through different periods. By analyzing lots of data, the research highlights how rule changes, improved strategies, and player development have all played a part in shaping today’s game. These insights not only help us understand basketball’s history better but also offer useful ideas for current and future basketball strategies.
 
 ## Conclusions and Future Work
 

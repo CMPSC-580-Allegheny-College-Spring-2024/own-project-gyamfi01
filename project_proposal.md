@@ -24,8 +24,6 @@ The goal of this research is to increase appreciation among basketball fans whil
 
 ## Literature Review
 
-TODO (10 source minimum, with 5 of those being published peer-reviewed articles): Conduct literature review by describing relevant work related to the project and hence providing an overview of the state of the art in the area of the project. This section serves to contextualize the study within the existing body of literature, presenting a thorough review of relevant prior research and scholarly contributions. In clear and meaningful language, this section aims to demonstrate the problems, gaps, controversies, or unanswered questions that are associated with the current understanding of the topic. In addition, this section serves to highlight the current study's unique contribution to the field. By summarizing and critiquing existing works, this section provides a foundation for readers to appreciate the novelty and significance of the study in relation to the broader academic discourse. The "Literature Review" section further (in detail) contributes to the `why is the project important?` question.
-
 This lit review examines how NBA scoring has changed over time using thorough scholarly research and insightful articles from the sports analytics and basketball communities. It studies many aspects of basketball evolution, such as regulation changes, player performance, and statistical analysis, in order to interpret these patterns' broader significance for the sport.
 
 Peer-Reviewed Articles
@@ -71,21 +69,14 @@ Data Processing
 
 ## Preliminary Results and Outcomes
 
-The study developed a sophisticated grasp of how basketball dynamics have changed and impacted player performance and game strategy by effectively utilizing historical basketball data to examine scoring challenges throughout various eras. The results have a substantial impact on the growth of basketball as a game and on scholarly viewpoints on sports analytics.
 
-Experimental Study and Results:
-
-Statistical Analysis Outcomes:
-
-* Era Comparison: The analysis revealed statistically significant differences in scoring averages and efficiencies between the early and modern eras of basketball. Players from the modern era were found to have higher points per game (PPG) but also faced more dynamic and complex defenses.
-
-* Impact of Rule Changes: Changes in basketball rules, particularly those relating to the shot clock and three-point line, were found to correlate significantly with increases in scoring rates, supporting the hypothesis that rule changes have facilitated higher scoring.
 
 ## Conclusions and Future Work
 
-TODO: Summarize your work and outline future steps needed to complete to take the project to the next stage (for example, if you were to continue with this project in 600/610). You must also address ethical implications of your project, especially as pertains to the public release or use of your software or methods.
+The study developed a sophisticated grasp of how basketball dynamics have changed and impacted player performance and game strategy by effectively utilizing historical basketball data to examine scoring challenges throughout various eras. The results have a substantial impact on the growth of basketball as a game and on scholarly viewpoints on sports analytics.
 
-What I Plan on Doing: 
+
+What I Plan on Doing:
 
 * Predictive Modeling: Apply machine learning methods to forecast players' future performance by analyzing past patterns. This can include the use of categorization models to group players into various performance categories according to their numbers, or regression models to predict scoring based on a player's career trajectory.
 
@@ -95,18 +86,17 @@ What I Plan on Doing:
 
 * Investigate advanced statistical models for effectively dealing with data anomalies and volatility, ensuring that historical comparisons are as fair and precise as feasible.
 
-Implementing Machine Learning: 
+Implementing Machine Learning:
 
 * Development: Build a comprehensive machine learning pipeline that includes data preprocessing, feature extraction, model training, evaluation, and deployment.
 
 * Model Training: Use historical data to train models, adjusting parameters to optimize for accuracy and generalizability.
+
 Model Evaluation: Rigorously test models using appropriate cross-validation techniques to ensure they perform well on unseen data.
 
 Deep Learning for Advanced Pattern Recognition:
 
 * Explore deep learning models to capture complex nonlinear relationships in the data that simpler models might miss. This could include using neural networks to predict player performance based on a wide range of input features.
-
-* Use convolutional neural networks (CNNs) for image-based analysis, such as player movements or game situations, if video or image data becomes available.
 
 Natural Language Processing (NLP):
 
@@ -134,8 +124,6 @@ Interactive Features:
 Visualization Upgrades:
 
 Incorporate more advanced visualizations, such as heat maps or dynamic graphs, to show changes over time more vividly.
-Use Plotly or D3.js for more sophisticated, interactive charting capabilities.
-Addressing Ethical Considerations
 
 Ensuring Model Transparency:
 
@@ -146,11 +134,16 @@ Ensuring Model Transparency:
 Impact Assessment:
 
 * Evaluate the application's possible effects on different stakeholders, such as players, teams, fans, and bettors, prior to its public release.
-  
+
 * Provide rules for the application's ethical usage, making sure it supports the sports community and complies with fair use requirements.
 
 * By continuing to improve the project with these developments, it will not only provide deeper insights into basketball but also push the boundaries of sports analytics, making it more interactive, informative, and accessible to a wider audience.
 
 ## References
 
-TODO: Add references in the [ACM style](https://www.acm.org/publications/authors/reference-formatting). All references must be cited in the proposal.
+Rocha da Silva, J. V., & Rodrigues, P. C. (2021). The Three Eras of the NBA Regular Seasons: Historical Trend and Success Factors. Journal of Sports Analytics, 7(4), 263-275. https://doi.org/10.3233/JSA-200525
+Radivoj Mandić. (2019). Trends in NBA and Euroleague Basketball (2000-2017). PLOS ONE.
+Jaime Sampaio. (2019). Exploring Game Performance in the NBA Using Player Tracking Data. PLOS ONE.
+Dimitrije Cabarkapa. (2022). Game Statistics That Discriminate Winning and Losing in the NBA. PLOS ONE.
+Mahmoud M. Nourayi. Strategically Driven Rule Changes in NBA: Causes and Consequences. The Sport Journal.
+Feng Wang. (2022). What are the changes in basketball shooting pattern and accuracy in the NBA in the past decade? Frontiers.

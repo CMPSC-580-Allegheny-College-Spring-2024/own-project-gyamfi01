@@ -53,7 +53,13 @@ Non-Peer-Reviewed Articles
 
 ## Prototype
 
-This study's main goal is to examine historical basketball data to identify variations in scoring challenges throughout various basketball eras, with a focus on comprehending potential effects on player efficacy and strategy.
+This study's main goal is to examine historical basketball data to identify variations in scoring challenges throughout various basketball eras, with a focus on comprehending potential effects on player efficacy and strategy. By delving into the nuances of scoring difficulties across different time periods, we aim to unravel the intricate relationship between gameplay dynamics, rule changes, and player performance. Through rigorous analysis and interpretation of the data, we seek to gain deeper insights into how scoring challenges have evolved over time and how these changes have shaped the strategies and effectiveness of players on the court.
+
+The exploration of historical basketball data offers a unique opportunity to uncover patterns and trends that may not be immediately apparent. By leveraging advanced statistical and machine learning techniques, we can extract meaningful information from vast datasets spanning decades of basketball history. This comprehensive analysis will allow us to compare scoring difficulties across eras, identify key factors influencing scoring trends, and elucidate the impact of external variables such as rule modifications and defensive tactics.
+
+Furthermore, this study goes beyond mere data analysis by exploring the implications of scoring challenges on player performance and strategic decision-making. Understanding how scoring difficulties have evolved can provide valuable insights for coaches, players, and analysts in optimizing game strategies, player development programs, and tactical approaches. By bridging the gap between historical data and contemporary basketball dynamics, we aim to contribute to the ongoing dialogue surrounding basketball analytics and enhance our understanding of the sport's evolution.
+
+In conclusion, this study is a determined attempt to understand the fundamental dynamics of basketball scoring difficulties from the early decades to the present. Our goal is to provide stakeholders with actionable insights, shed light on the factors influencing scoring challenges, and push basketball analytics as an essential part of sports research and strategy development by utilizing state-of-the-art analytical tools and methodologies.
 
 Data Collection:
 

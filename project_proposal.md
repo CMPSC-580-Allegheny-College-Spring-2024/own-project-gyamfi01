@@ -69,12 +69,20 @@ Data Processing
 
 ## Preliminary Results and Outcomes
 
+Experimental Study and Results:
+
+* Comprehensive datasets spanning several decades of NBA play were analyzed to extract trends in scoring, player efficiency, and team strategies.
+
+Statistical Analysis Outcomes:
+
+* Era Comparison: The analysis revealed statistically significant differences in scoring averages and efficiencies between the early and modern eras of basketball. Players from the modern era were found to have higher points per game (PPG) but also faced more dynamic and complex defenses.
+
+* Impact of Rule Changes: Changes in basketball rules, particularly those relating to the shot clock and three-point line, were found to correlate significantly with increases in scoring rates, supporting the hypothesis that rule changes have facilitated higher scoring.
 
 
 ## Conclusions and Future Work
 
 The study developed a sophisticated grasp of how basketball dynamics have changed and impacted player performance and game strategy by effectively utilizing historical basketball data to examine scoring challenges throughout various eras. The results have a substantial impact on the growth of basketball as a game and on scholarly viewpoints on sports analytics.
-
 
 What I Plan on Doing:
 
@@ -117,7 +125,6 @@ Real-Time Data Analysis:
 * Enhancements to the Streamlit Dashboard
 
 Interactive Features:
-
 * Implement more interactive elements, such as sliders to adjust parameters of the machine learning models, allowing users to see how changes affect predictions.
 * Provide users with the ability to upload their data sets for custom analysis.
 

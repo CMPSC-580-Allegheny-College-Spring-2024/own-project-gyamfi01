@@ -12,7 +12,7 @@ This document is to contain your project proposal. __As you complete each of the
 
 ## Project Title: WE DONE WITH THE NINETY'S
 
-Introduction
+Introduction 
 The proposed study leverages data science methodologies to delve into the question of scoring difficulty across distinct eras in basketball. By employing statistical analysis and machine learning techniques on historical basketball data, this research aims to determine if scoring points was demonstrably harder during specific periods. The ultimate goal is to achieve a deeper understanding of how the dynamics of basketball gameplay have evolved over time, and how these changes have impacted both player effectiveness and strategic approaches on the court.
 
 A critical component of this project involves the collection of comprehensive historical basketball statistics. This data will encompass player performance metrics, team statistics, and game outcomes, all meticulously gathered from various eras. To ensure accuracy and consistency for subsequent analysis, the data will undergo a rigorous cleansing and preprocessing phase. The core analysis will involve a two-pronged approach. First, machine learning algorithms will be utilized to identify patterns and trends in scoring difficulty across different eras. Second, this will be complemented by the computation of scoring data for various eras, including points per game (PPG), shooting percentages, and offensive efficiency. To effectively showcase these scoring trends and facilitate comparisons between eras, compelling visualizations such as graphs and charts will be created.

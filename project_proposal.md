@@ -26,9 +26,35 @@ The goal of this research is to increase appreciation among basketball fans whil
 
 TODO (10 source minimum, with 5 of those being published peer-reviewed articles): Conduct literature review by describing relevant work related to the project and hence providing an overview of the state of the art in the area of the project. This section serves to contextualize the study within the existing body of literature, presenting a thorough review of relevant prior research and scholarly contributions. In clear and meaningful language, this section aims to demonstrate the problems, gaps, controversies, or unanswered questions that are associated with the current understanding of the topic. In addition, this section serves to highlight the current study's unique contribution to the field. By summarizing and critiquing existing works, this section provides a foundation for readers to appreciate the novelty and significance of the study in relation to the broader academic discourse. The "Literature Review" section further (in detail) contributes to the `why is the project important?` question.
 
-## Prototype
+This lit review examines how NBA scoring has changed over time using thorough scholarly research and insightful articles from the sports analytics and basketball communities. It studies many aspects of basketball evolution, such as regulation changes, player performance, and statistical analysis, in order to interpret these patterns' broader significance for the sport.
 
-TODO: Discuss the methods of the project to be able to answer the `how` question (`how was this project completed?`). For this section, you must describe  the methodology behind your implemented prototype. The methods section in an academic research outlines the specific procedures, techniques, and methodologies employed to conduct the study, offering a transparent and replicable framework for the research. It details the resourcs behind the work, in terms of, for example, the design of the algorithm and the experiment(s), data collection methods, applied software libraries, required tools, the types of statistical analyses and models which are applied to ensure the rigor and validity of the study. This section provides clarity for other researchers to understand and potentially replicate the study, contributing to the overall reliability and credibility of the research findings.
+Peer-Reviewed Articles
+
+* Rocha da Silva, João Vítor; Rodrigues, Paulo Canas (2021). "The Three Eras of the NBA Regular Seasons: Historical Trend and Success Factors," Journal of Sports Analytics. This research applies advanced statistical methods, such as K-means clustering and LASSO regression, to delineate distinct eras of NBA basketball, offering insights into the key factors driving success across different periods.
+DOI: 10.3233/JSA-200525
+
+* "Trends in NBA and Euroleague Basketball (2000-2017)." This study conducts a comparative analysis using box-score statistics to explore differences and trends in the game dynamics and team success metrics over nearly two decades, published in PLOS ONE.
+* "Exploring Game Performance in the NBA Using Player Tracking Data." This article investigates how all-star and non-all-star players perform differently, utilizing advanced player tracking data to analyze performance metrics and identify discriminative variables between player groups in PLOS ONE.
+  
+* "Game Statistics That Discriminate Winning and Losing in the NBA." Focuses on identifying game-related statistical parameters that distinguish winning and losing outcomes in NBA games, offering insights into critical performance indicators during competitive periods in PLOS ONE.
+  
+* "Strategically Driven Rule Changes in NBA: Causes and Consequences." Examines the effects of NBA rule changes on game statistics, particularly how these changes have influenced the speed and efficiency of the game, thus affecting scoring dynamics and gameplay strategies in The Sport Journal.
+  
+* "What are the changes in basketball shooting pattern and accuracy in the NBA in the past decade?" Discusses how changes in game rules and playing styles have affected the pace and shooting patterns in NBA games, highlighting the increase in three-point shooting and its impact on scoring trends in Frontiers.
+
+Non-Peer-Reviewed Articles
+
+* Fromal, Adam. "Ranking Each Decade of NBA Basketball, from the 1960s to Today." Provides a narrative analysis of NBA basketball over the decades, offering insights into how the game and its players have evolved over time. Available on sports analysis websites like Bleacher Report.
+  
+* Wang, Daniel. "How Can We Accurately Compare NBA Players Across Different Eras?" Tackles the challenge of comparing player performance across different periods, discussing various statistical techniques and considerations that should be taken into account. Found on basketball analytics blogs or sports data science platforms.
+  
+* "How the Average NBA Player has Evolved Throughout 75 Years of League History." Explores the physical and performance changes in NBA players over the league's history, supported by data on player size, role, and contributions. Available on comprehensive sports news sites like ESPN.
+
+* Reynolds, Tim. "The NBA’s Scoring Boom is Still Going Strong, and Some Wonder if That’s a Good Thing." This article discusses the contemporary scoring trends in the NBA, particularly the increase in overall game scoring, and debates whether these changes are beneficial for the sport. This piece provides a critical perspective on modern scoring dynamics, questioning the sustainability and impact of high-scoring games on the sport’s integrity and viewer engagement.
+
+* This literature review's use of both scholarly and popular sources provides a complete study of how NBA scoring dynamics have changed throughout time. It offers a comprehensive knowledge of how basketball has evolved, guided by rigorous data-driven research and complemented by larger cultural and historical perspectives. This literature study not only covers the academic discourse surrounding NBA scoring patterns, but also engages in broader debates and conversations within the basketball community, emphasizing the sport's continual growth and its impact on players, teams, and fans alike.
+
+## Prototype
 
 This study's main goal is to examine historical basketball data to identify variations in scoring challenges throughout various basketball eras, with a focus on comprehending potential effects on player efficacy and strategy.
 
@@ -45,17 +71,15 @@ Data Processing
 
 ## Preliminary Results and Outcomes
 
-TODO: Discuss the outcomes of your project in this section. Depending on the project type, the presented results and outcomes will vary. In some projects, you will be asked to present a theoretical analysis, and in others your experimental study and its results. In this section, you are also to demonstrate an enhanced version of your artifact by showing its capabilities and applications, in light of the evaluation metrics for assessing the artifact
-
 The study developed a sophisticated grasp of how basketball dynamics have changed and impacted player performance and game strategy by effectively utilizing historical basketball data to examine scoring challenges throughout various eras. The results have a substantial impact on the growth of basketball as a game and on scholarly viewpoints on sports analytics.
 
 Experimental Study and Results:
 
 Statistical Analysis Outcomes:
 
-Era Comparison: The analysis revealed statistically significant differences in scoring averages and efficiencies between the early and modern eras of basketball. Players from the modern era were found to have higher points per game (PPG) but also faced more dynamic and complex defenses.
+* Era Comparison: The analysis revealed statistically significant differences in scoring averages and efficiencies between the early and modern eras of basketball. Players from the modern era were found to have higher points per game (PPG) but also faced more dynamic and complex defenses.
 
-Impact of Rule Changes: Changes in basketball rules, particularly those relating to the shot clock and three-point line, were found to correlate significantly with increases in scoring rates, supporting the hypothesis that rule changes have facilitated higher scoring.
+* Impact of Rule Changes: Changes in basketball rules, particularly those relating to the shot clock and three-point line, were found to correlate significantly with increases in scoring rates, supporting the hypothesis that rule changes have facilitated higher scoring.
 
 ## Conclusions and Future Work
 

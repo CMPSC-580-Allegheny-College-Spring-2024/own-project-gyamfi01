@@ -63,9 +63,21 @@ In conclusion, this study is a determined attempt to understand the fundamental 
 
 Data Collection:
 
-* Sources: Data was sourced from several historical databases and archives that compile basketball statistics, including player performance measures, team statistics, and game outcomes from various eras.
-* Selection Criteria: Data selection focused on comprehensive coverage across multiple decades, ensuring representation from early (1950s–1990s) and modern (2000s–present) periods of basketball.
-* Retrieval Method: The data was accessed using APIs where available, such as the nba_api for recent decades, and digital archives for older statistical records. Manual data entry was employed for archival data not available in digital format.
+* For this project, I carefully gathered data from various databases and archives that store basketball statistics. These sources include both well-known and niche databases that offer detailed information about player performance (like points per game and rebounds), team statistics (such as wins and losses), and game outcomes. Each dataset was chosen to provide a clear picture of basketball trends over time, ensuring that the study has a solid historical basis. Key sources included the Basketball Reference website, known for its comprehensive stats, and archival footage from the NBA's official site for additional game details.
+
+Selection Criteria:
+* The data selection was aimed at covering a wide historical range. The datasets span from the early NBA days in the 1950s to the current era, capturing different basketball periods. This extensive coverage allows me to effectively compare how basketball has evolved, showcasing changes in rules, playing styles, and player fitness.
+
+Retrieval Method:
+* Data retrieval involved two main approaches. For recent years, the nba_api was used to access a large amount of current NBA statistics quickly. For older data, digital archives and physical records such as game programs and sports magazines were used, especially when digital information was incomplete or missing. Where necessary, data was manually entered into my system, ensuring accuracy through careful transcription.
+
+Data Integrity and Validation:
+* To ensure the data's accuracy and reliability, several validation steps were performed. This included checking numbers from different sources, verifying unusual data against historical game footage where possible, and using techniques to ensure manual entries were error-free. These steps are crucial to maintain the quality of historical sports data, which can sometimes be inconsistent.
+
+Challenges and Considerations:
+* One of the main challenges was dealing with how differently statistics were recorded in the past. For example, some stats like turnovers and blocks weren't always tracked. To handle these issues, I adjusted my analysis methods to consider which types of data were available in each era. I also made sure to follow all legal and ethical guidelines for data use, using only data from public or properly licensed sources.
+
+* This approach to data collection not only strengthens the foundation of my project but also deepens my analysis, helping me understand how basketball has changed over the years.
 
 Data Processing
 
